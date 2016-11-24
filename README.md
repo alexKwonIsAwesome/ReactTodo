@@ -1,2 +1,3 @@
-# ReactBoilerplate
-boilerplate for any react projects
+# React Timer
+
+An timer application made in React.
